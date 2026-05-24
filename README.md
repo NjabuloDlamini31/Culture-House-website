@@ -62,13 +62,14 @@ The store showcases six main product categories:
 - Gradient background matching brand colors
 
 ### Contact Section
-- Contact information
+- Contact information with live phone and email links
 - Contact form with validation
 - Two-column layout on desktop
 
 ### Footer
 - Quick links
 - Social media links
+- Support contact information
 - Copyright information
 
 ## 🚀 Getting Started
@@ -85,7 +86,6 @@ The store showcases six main product categories:
 3. **Customize Content**
    - Edit the text in `index.html`
    - Modify contact information
-   - Add your actual phone number and email
    - Update social media links
 
 ## 📝 Customization Guide
@@ -107,13 +107,6 @@ Edit the product cards in `index.html` (products section):
 - Update titles and descriptions
 - Modify the number of products
 
-### Add Real Contact Information
-Update these fields in the contact section:
-- Email address
-- Phone number
-- Physical address
-- Business hours
-
 ### Link Social Media
 Update social links in the footer with your actual profiles:
 ```html
@@ -129,11 +122,12 @@ Update social links in the footer with your actual profiles:
 ✅ Smooth animations and transitions
 ✅ Mobile hamburger menu
 ✅ Newsletter subscription
-✅ Contact form
+✅ Contact form with validation
 ✅ Product showcase
 ✅ Social media integration
 ✅ Professional typography
 ✅ Cross-browser compatible
+✅ Live contact information (phone and email links)
 
 ## 🔧 Technical Stack
 
@@ -166,8 +160,8 @@ Consider adding:
 ## 📞 Support
 
 For issues or questions about the website, contact:
-- **Email**: info@culturehouse.com
-- **Phone**: +1 (555) 123-4567
+- **Email**: jb.ndlamini31@gmail.com
+- **Phone**: 0713198602
 
 ## 📄 License
 
